@@ -3,7 +3,8 @@
 eInvoice is a web-based invoicing application built with PHP. This project allows users to generate and manage invoices with features such as JSON/XML generation and API key testing. **Note: This application is for development and testing purposes only and is not intended for production use.**
 
 • USE ONLY GENERATE JSON/XML, TEST YOUR API KEYS, NOT MEANT FOR PRODUCTION.  
-![image](https://github.com/user-attachments/assets/945985d9-2c17-40ff-bb27-535bfc755a36)
+![image](https://github.com/user-attachments/assets/52c46caf-6d0c-4cb3-9206-70fd7f7a8ed3)
+
 
 ## Table of Contents
 
